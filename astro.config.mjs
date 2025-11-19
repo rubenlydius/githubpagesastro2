@@ -3,5 +3,5 @@ import { defineConfig } from 'astro/config';
 // https://astro.build/config
 export default defineConfig({
   site: 'https://rubenlydius.github.io',
-  base: '/cck/',
+  base: '/githubpagesastro2/',
 });
